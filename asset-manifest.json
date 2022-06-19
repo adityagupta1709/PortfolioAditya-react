@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PortfolioAditya-react/static/css/main.38a3be97.css",
+    "main.js": "/PortfolioAditya-react/static/js/main.99783fb9.js",
+    "static/js/377.ddffdb1c.chunk.js": "/PortfolioAditya-react/static/js/377.ddffdb1c.chunk.js",
+    "index.html": "/PortfolioAditya-react/index.html",
+    "main.38a3be97.css.map": "/PortfolioAditya-react/static/css/main.38a3be97.css.map",
+    "main.99783fb9.js.map": "/PortfolioAditya-react/static/js/main.99783fb9.js.map",
+    "377.ddffdb1c.chunk.js.map": "/PortfolioAditya-react/static/js/377.ddffdb1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38a3be97.css",
+    "static/js/main.99783fb9.js"
+  ]
+}
