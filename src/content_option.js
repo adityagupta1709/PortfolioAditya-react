@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Aditya Gupta",
     animated: {
-        first: "Full stack devloper",
+        first: "Full stack developer",
         second: "Designer",
         third: "Tech enthusiast",
     },
