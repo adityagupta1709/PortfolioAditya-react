@@ -1,7 +1,7 @@
 const logotext = "ADITYA";
 const meta = {
     title: "Aditya Gupta",
-    description: "Hey, I am Aditya Gupta  _ Full stack devloper",
+    description: "Hey, I am Aditya Gupta  _ Full stack developer",
 };
 
 const introdata = {
